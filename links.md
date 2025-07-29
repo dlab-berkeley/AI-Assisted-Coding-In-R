@@ -1,5 +1,5 @@
 # List of relevant links
-1. Workshop GitHub page: https://github.com/dlab-berkeley/Copilot-Fundamentals
+1. Workshop GitHub page: https://github.com/dlab-berkeley/R-Copilot-Assisted-Coding-Workshop
 2. D-Lab workshops: https://dlab.berkeley.edu/training/upcoming-workshops 
 3. D-Lab consulting: https://dlab.berkeley.edu/consulting
 4. D-Lab newsletter: https://dlab.berkeley.edu/news/weekly-newsletter
