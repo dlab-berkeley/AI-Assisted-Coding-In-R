@@ -1,8 +1,8 @@
-# D-Lab's R Copilot Assisted Coding Workshop
+# D-Lab's AI-Assisted Coding with R Workshop
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab R Copilot Assisted Coding Workshop. 
+This repository contains the materials for D-Lab's AI-Assisted Coding with R Workshop.
 
 ### Prerequisites
 
