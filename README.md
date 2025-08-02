@@ -4,7 +4,7 @@
 
 This repository contains the materials for D-Lab's AI-Assisted Coding In R Workshop.
 
-### Prerequisites
+## Prerequisites
 
 Though GitHub Copilot is language agnostic, our examples will be in R. Therefore, we recommend attending D-Lab's [R
 Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) series
