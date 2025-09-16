@@ -71,7 +71,7 @@ You will also need the `httpgd` package to display plots interactively in VS Cod
 
 ```{r}
 # if you haven't installed httpgd before, uncomment this line
-#install.packages("httpgd")
+#remotes::install_github("nx10/httpgd")
 ```
 
 💡 **Tip**: Unlike tidyverse or other packages you may actively use when coding, we do not need to load the `httpgd` package everytime (i.e., we don't need to run `library("httpgd")`). `httpgd` just provides the infrastructure for showing plots in VS Code.
