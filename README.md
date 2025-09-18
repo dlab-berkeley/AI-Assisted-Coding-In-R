@@ -14,7 +14,7 @@ Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops
 
 ## Workshop Goals
 
-This workshop provides an introduction to coding with GitHub Copilot, an AI-powered coding assistant that can help you write code faster and more efficiently. First, we’ll cover how to install and set-up Visual Studio Code, a free code editor through which we will use GitHub Copilot. Then, we will go through the different features of GitHub Copilot and how to use them to help us code in R. 
+This workshop provides a beginner-friendly introduction to coding with GitHub Copilot, a popular AI coding assistant. We will start from the basics so you can start taking advantage of AI assistants to help you code while avoiding common pitfalls. First, we'll cover how to install and set-up Visual Studio Code, a free code editor through which we will use GitHub Copilot. Then, we will go through the different features of GitHub Copilot and how to use them to help us code in R.
 
 ## Learning Objectives
 
