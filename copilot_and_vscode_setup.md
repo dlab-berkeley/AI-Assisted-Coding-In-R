@@ -46,7 +46,7 @@ To get the free version of Copilot, go here and click "Get Started for Free":
 
 To get Copilot *Pro* for teachers and students (for free) you need to apply for benefits here (don’t worry, it’s easy!):
 
-<https://education.github.com/discount_requests/application>
+<https://github.com/settings/education/benefits>
 
 You will need to fill out a short application which will ask you some basic information about yourself and your institution. Your institutional email must be associated with your GitHub account (instructions for adding an email to your Github account can be found [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)). 
 
