@@ -62,16 +62,16 @@ The next steps are not necessary for this workshop, because we are using the Git
 First, install the `tidyverse` package. You can install it by running the code below. We will use this today for manipulating our data and for making plots.
 
 ```{r}
-# If you haven't installed tidyverse before, uncomment this line 
+# install.packages("tidyverse") # If you haven't installed tidyverse before, uncomment this line 
 # You may be prompted to pick a CRAN mirror: just choose the first one (0-Cloud [https])
-#install.packages("tidyverse")
 ```
 
 You will also need the `httpgd` package to display plots interactively in VS Code. You can install it by running the code below.
 
 ```{r}
-# if you haven't installed httpgd before, uncomment this line
-#remotes::install_github("nx10/httpgd")
+# if you haven't installed httpgd before, uncomment the following two lines
+# install.packages("remotes")
+# remotes::install_github("nx10/httpgd")
 ```
 
 💡 **Tip**: Unlike tidyverse or other packages you may actively use when coding, we do not need to load the `httpgd` package everytime (i.e., we don't need to run `library("httpgd")`). `httpgd` just provides the infrastructure for showing plots in VS Code.
